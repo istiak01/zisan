@@ -1,0 +1,206 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    background-color: bisque;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.pro-pic{
+    height: 120px;
+    width: 100px;
+    border: 3px solid black;
+    border-radius: 50%;
+    float: left;
+}
+
+.pro-boi{
+    float: left;
+    padding: 30px;
+}
+
+.contract{
+    padding-left: 650px;
+    padding-top: 50px;
+    text-decoration: none;
+    color: teal;
+    font-weight: bold;
+}
+
+.contract a{
+    text-decoration: none;
+}
+
+.contract :hover {
+    text-decoration: underline;
+    color: tomato;
+
+    
+}
+
+
+h1,h2,h3,h4,h5,h6{
+    color: #5DA8AE;
+}
+
+.div-clear{
+    clear: both;
+}
+
+
+hr{
+    border: 1px solid black;
+    width: 100%;
+    margin-top: 30px;
+}
+
+/*personal Information style css   */
+
+#personal-imp{
+
+}
+
+.pro-left{
+    float: left;
+    width: 30%;
+    margin-top: 20px;
+
+}
+.pro-right{
+    float: left;
+    width: 70%;
+    margin-top: 20px;
+  
+}
+.com-hr{
+    border: 1px solid black;
+    margin: 20px auto;
+    width: 100%;
+
+}
+
+/*Work Epx style css   */
+
+#work-ex{
+
+}
+
+.work-epx-left{
+    float: left;
+    width: 30%;
+
+}
+
+.work-exp-right{
+    float: left;
+    width: 70%;
+
+}
+
+/*key skill style css   */
+
+#key{
+
+}
+
+.key-left{
+     float: left;
+     width: 30%;
+
+}
+
+.key-right{
+    float: left;
+    width: 70%;
+
+}
+
+/*edu style css   */
+
+#edu{
+
+}
+
+.edu-left{
+    float: left;
+    width: 30%;
+
+}
+
+.edu-right{
+    float: left;
+    width: 70%;
+
+}
+
+/*honor  style css   */
+
+#honor{
+
+}
+.hor-left{
+    float: left;
+    width: 30%;
+
+}
+
+.hor-right{
+
+    float: left;
+     width: 70%;
+
+}
+
+/*Referece  style css   */
+
+#reference{
+
+}
+
+.ref-left{
+    float: left;
+    width: 30%;
+
+}
+
+.ref-right1{
+    float: left;
+    width: 35%;
+
+}
+
+.ref-right2{
+    float: left;
+    width: 35%;
+
+}
+
+/*footer  style css   */
+
+.ftr{
+    background-color: black;
+    text-align: center;
+}
+
+.ftr a{
+    
+    color: wheat;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.ftr p{
+    text-align: center;
+    color: wheat;
+    text-decoration: none;
+    margin-top: 10px;
+
+}
